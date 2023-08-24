@@ -41,33 +41,10 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"><b> Connect with Me :</b>
 
-<a href="https://github.com/MohamedHelmy296" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=black&style=for-the-badge&logo=github&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:mohamed.helmy1296@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=black&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/mohamed-helmy-450265169/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%ff5851db.svg?color=black&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://web.telegram.org/a/#1080365625" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%2300acee.svg?color=black&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a>
-<!--
-## 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudAbdul-kareem&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<br>
-<div width=400px>
-<a href="https://komarev.com/ghpvc/?username=MahmoudAbdul-kareem&style=for-the-badge">
-    <img center="left" src="https://komarev.com/ghpvc/?username=MahmoudAbdul-kareem&style=for-the-badge">
-</a>
-</div>
--->
-
-
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-helmy-450265169/)
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100020519565694)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohamed.helmy1296@gmail.com)](mailto:mohamed.helmy1296@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01275444124)
 
 <br>
 <a href="https://komarev.com/ghpvc/?username=MohamedHelmy296&style=for-the-badge">

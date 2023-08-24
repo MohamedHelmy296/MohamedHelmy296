@@ -51,7 +51,7 @@
 <a href="https://www.linkedin.com/in/mohamed-helmy-450265169/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%ff5851db.svg?color=black&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/MahmoudAbdul_kareem" target="_blank">
+<a href="https://web.telegram.org/a/#1080365625" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300acee.svg?color=black&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 <!--

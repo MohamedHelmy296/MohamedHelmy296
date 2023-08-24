@@ -31,7 +31,6 @@
 
         
     ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-    ![Code::Blocks](https://th.bing.com/th/id/R.65ac50e2663de56cd22d90290f0b6e2c?rik=ph4V1F5SFHHn9w&pid=ImgRaw&r=0))&nbsp;
     ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?color=black&style=for-the-badge&logo=github&logoColor=white)&nbsp;

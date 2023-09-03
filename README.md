@@ -35,7 +35,7 @@
     [![HackerRank](https://img.shields.io/badge/-HackerRank-05122A?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/moh014836)
     ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
   
-- **version control**:
+- **Version Control**:
       <!-- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?color=black&style=for-the-badge&logo=github&logoColor=white)&nbsp;-->
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
